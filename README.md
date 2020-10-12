@@ -20,6 +20,4 @@ Here are some ideas to get you started:
 [![Thushara Thiwanka GitHub Stats](https://github-readme-stats.vercel.app/api?username=thusharathiwanka&show_icons=true&count_private=true)](https://github.com/thusharathiwanka)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thusharathiwanka&show_icons=true)
-  CodeLearner is App that created for learn programming language basics for everyone that are interested on programming. We have variety of
-programming languages vary most popular languages. Such as Java, JavaScript, PHP, C, C++ and many more
 
