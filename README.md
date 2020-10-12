@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Thushara Thiwanka GitHub Stats](https://github-readme-stats.vercel.app/api?username=thusharathiwanka&show_icons=true&count_private=true)](https://github.com/thusharathiwanka)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thusharathiwanka&show_icons=true)
