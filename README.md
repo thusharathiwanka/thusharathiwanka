@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=thusharathiwanka&show_icons=true&count_private=true)](https://github.com/anandmainali)
+[![Thushara Thiwanka GitHub Stats](https://github-readme-stats.vercel.app/api?username=thusharathiwanka&show_icons=true&count_private=true)](https://github.com/thusharathiwanka)
