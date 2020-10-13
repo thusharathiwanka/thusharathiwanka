@@ -36,7 +36,6 @@
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/java.png?raw=true" alt=java width="80" height="60"/>
 </p>
 <br>
-<br>
 <p>
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/git.png?raw=true" alt=git width="60" height="60"/>
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/github.png?raw=true" alt=github width="60" height="60"/>
