@@ -33,7 +33,7 @@
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/c.png?raw=true" alt=c width="60" height="60"/>
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/python.png?raw=true" alt=python width="60" height="60"/>
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/php.png?raw=true" alt=php width="90" height="60"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/java.png?raw=true" alt=java width="60" height="60"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/java.png?raw=true" alt=java width="60" height="70"/>
 </p>
 <br>
 <p>
