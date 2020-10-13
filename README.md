@@ -26,20 +26,20 @@
 ### Tools & Technologies
 
 <p>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/html5.png?raw=true" alt=html width="60" height="60"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/css3.png?raw=true" alt=css width="60" height="60"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/js.png?raw=true" alt=js width="60" height="60"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/sass.png?raw=true" alt=sass width="60" height="60"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/c.png?raw=true" alt=c width="60" height="60"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/python.png?raw=true" alt=python width="60" height="60"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/php.png?raw=true" alt=php width="90" height="60"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/java.png?raw=true" alt=java width="80" height="60"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/html5.png?raw=true" alt=html width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/css3.png?raw=true" alt=css width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/js.png?raw=true" alt=js width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/sass.png?raw=true" alt=sass width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/c.png?raw=true" alt=c width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/python.png?raw=true" alt=python width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/php.png?raw=true" alt=php width="70" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/java.png?raw=true" alt=java width="50" height="70"/>
 </p>
 <br>
 <p>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/git.png?raw=true" alt=git width="60" height="60"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/github.png?raw=true" alt=github width="60" height="60"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/netlify.png?raw=true" alt=php width="60" height="60"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/vsc.png?raw=true" alt=vscode width="60" height="60"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/win10.png?raw=true" alt=win10 width="60" height="60"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/git.png?raw=true" alt=git width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/github.png?raw=true" alt=github width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/netlify.png?raw=true" alt=php width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/vsc.png?raw=true" alt=vscode width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/win10.png?raw=true" alt=win10 width="50" height="50"/>
 </p>
