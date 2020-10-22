@@ -23,7 +23,7 @@
 
 [![Thushara Thiwanka GitHub Stats](https://github-readme-stats.vercel.app/api?username=thusharathiwanka&show_icons=true&count_private=true)](https://github.com/thusharathiwanka)
 
-
+<!--
 ### Tools & Technologies
 
 <p>
@@ -44,4 +44,4 @@
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/vsc.png?raw=true" alt=vscode width="50" height="50"/>
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/win10.png?raw=true" alt=win10 width="50" height="50"/>
 </p>
-
+-->
