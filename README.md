@@ -48,6 +48,6 @@
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/fedora.png?raw=true" width="50" height="50"/>
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/figma.png?raw=true" width="32" height="45"/>
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/xd.png?raw=true" width="42" height="42"/>
-   <img style="margin: auto;" src="https://raw.githubusercontent.com/thusharathiwanka/thusharathiwanka/main/images/tools/ps.webp?raw=true" width="42" height="42"/>
+   <img style="margin: auto;" src="https://raw.githubusercontent.com/thusharathiwanka/thusharathiwanka/main/images/tools/ps.png?raw=true" width="42" height="42"/>
    <img style="margin: auto;" src="https://raw.githubusercontent.com/thusharathiwanka/thusharathiwanka/main/images/tools/ai.png?raw=true" width="42" height="42"/>
 </p>
