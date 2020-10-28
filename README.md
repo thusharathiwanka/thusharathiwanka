@@ -26,21 +26,25 @@
 ### Tools & Technologies
 
 <p>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/html5.png?raw=true" alt=html width="50" height="50"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/css3.png?raw=true" alt=css width="50" height="50"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/js.png?raw=true" alt=js width="50" height="50"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/sass.png?raw=true" alt=sass width="50" height="50"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/c.png?raw=true" alt=c width="50" height="50"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/python.png?raw=true" alt=python width="50" height="50"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/php.png?raw=true" alt=php width="50" height="50"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/java.png?raw=true" alt=java width="50" height="70"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/mysql.png?raw=true" alt=php width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/html5.png?raw=true" width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/css3.png?raw=true" width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/js.png?raw=true" width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/sass.png?raw=true" width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/c.png?raw=true" width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/python.png?raw=true" width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/php.png?raw=true" width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/java.png?raw=true" width="50" height="70"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/mysql.png?raw=true" width="50" height="50"/>
 </p>
 <br>
 <p>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/git.png?raw=true" alt=git width="50" height="50"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/github.png?raw=true" alt=github width="50" height="50"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/netlify.png?raw=true" alt=php width="50" height="50"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/vsc.png?raw=true" alt=vscode width="50" height="50"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/win10.png?raw=true" alt=win10 width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/git.png?raw=true" width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/github.png?raw=true" width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/netlify.png?raw=true" width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/vsc.png?raw=true" width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/win10.png?raw=true" width="50" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/figma.png?raw=true" width="35" height="50"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/xd.png?raw=true" width="50" height="50"/>
+   <img style="margin: auto;" src="https://raw.githubusercontent.com/thusharathiwanka/thusharathiwanka/main/images/tools/ps.webp?raw=true" width="50" height="50"/>
+   <img style="margin: auto;" src="https://raw.githubusercontent.com/thusharathiwanka/thusharathiwanka/main/images/tools/ai.png?raw=true" width="50" height="50"/>
 </p>
