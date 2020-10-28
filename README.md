@@ -25,7 +25,7 @@
 
 ### Tools & Technologies
 
-<p style="margin-top: -5rem;">
+<p style="margin-top: -1rem;">
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/html5.png?raw=true" width="50" height="50"/>
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/css3.png?raw=true" width="50" height="50"/>
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/js.png?raw=true" width="50" height="50"/>
