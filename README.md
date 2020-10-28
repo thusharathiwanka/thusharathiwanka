@@ -25,7 +25,7 @@
 
 ### Tools & Technologies
 
-<p>
+<p style="margin-top: -1rem;">
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/html5.png?raw=true" width="50" height="50"/>
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/css3.png?raw=true" width="50" height="50"/>
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/js.png?raw=true" width="50" height="50"/>
@@ -38,7 +38,7 @@
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/mysql.png?raw=true" width="50" height="50"/>
 </p>
 <br>
-<p>
+<p style="margin-top: -1rem;">
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/git.png?raw=true" width="50" height="50"/>
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/github.png?raw=true" width="50" height="50"/>
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/netlify.png?raw=true" width="50" height="50"/>
@@ -47,7 +47,7 @@
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/win10.png?raw=true" width="50" height="50"/>
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/fedora.png?raw=true" width="50" height="50"/>
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/figma.png?raw=true" width="32" height="45"/>
-   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/xd.png?raw=true" width="42" height="42"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/tools/xd.png?raw=true" width="40" height="40"/>
    <img style="margin: auto;" src="https://raw.githubusercontent.com/thusharathiwanka/thusharathiwanka/main/images/tools/ps.png?raw=true" width="42" height="42"/>
    <img style="margin: auto;" src="https://raw.githubusercontent.com/thusharathiwanka/thusharathiwanka/main/images/tools/ai.png?raw=true" width="42" height="42"/>
 </p>
