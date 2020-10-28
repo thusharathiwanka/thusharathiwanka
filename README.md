@@ -34,6 +34,7 @@
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/python.png?raw=true" alt=python width="50" height="50"/>
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/php.png?raw=true" alt=php width="50" height="50"/>
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/java.png?raw=true" alt=java width="50" height="70"/>
+   <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/mysql.png?raw=true" alt=php width="50" height="50"/>
 </p>
 <br>
 <p>
