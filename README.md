@@ -2,11 +2,12 @@
 
 ## Undergraduate Student
 
-   - 🌱 I’m currently learning everything 🤣
+   - 🌱 I’m currently learning React
    - 👯 I’m looking to collaborate with other web developers
    - 💬 Ask me about anything 
    - 🥅 2020 Goals: Contribute more to projects
    - 👀 Looking for an internship
+   - 😄 Pronouns: He/Him
 
 [![Thushara Thiwanka GitHub Stats](https://github-readme-stats.vercel.app/api?username=thusharathiwanka&show_icons=true&count_private=true)](https://github.com/thusharathiwanka)
 
