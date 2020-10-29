@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Thushara. 👋
+
+[![Thushara Thiwanka GitHub Stats](https://github-readme-stats.vercel.app/api?username=thusharathiwanka&show_icons=true&count_private=true)](https://github.com/thusharathiwanka)
 
 ### 📫 Contact me on,
 
@@ -20,9 +22,6 @@
    - 💬 Ask me about ...
    - 📫 How to reach me: ...
 -->
-
-[![Thushara Thiwanka GitHub Stats](https://github-readme-stats.vercel.app/api?username=thusharathiwanka&show_icons=true&count_private=true)](https://github.com/thusharathiwanka)
-
 ### Familiar Tools & Technologies
 
 <p style="margin-top: -1rem;">
