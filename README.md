@@ -1,5 +1,11 @@
 ## Hi there, I'm Thushara. 👋
 
+   - 🔭 I’m currently working on 
+   - 🌱 I’m currently learning everything 🤣
+   - 👯 I’m looking to collaborate on ...
+   - 🤔 I’m looking for help with ...
+   - 💬 Ask me about ...
+
 [![Thushara Thiwanka GitHub Stats](https://github-readme-stats.vercel.app/api?username=thusharathiwanka&show_icons=true&count_private=true)](https://github.com/thusharathiwanka)
 
 ### 📫 Contact me on,
@@ -9,12 +15,6 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/thusharathiwanka.___/)
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/thushara.thiwanka.7/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/tandt97)
-
-   - 🔭 I’m currently working on 
-   - 🌱 I’m currently learning everything 🤣
-   - 👯 I’m looking to collaborate on ...
-   - 🤔 I’m looking for help with ...
-   - 💬 Ask me about ...
    
 ### Familiar Tools & Technologies
 
