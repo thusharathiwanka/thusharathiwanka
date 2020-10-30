@@ -19,7 +19,7 @@
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/thushara.thiwanka.7/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/tandt97)
    
-### Familiar Tools & Technologies
+### Familiar Tools & Technologies,
 
 <p style="margin-top: -1rem;">
    <img style="margin: auto;" src="https://github.com/thusharathiwanka/thusharathiwanka/blob/main/images/languages/html5.png?raw=true" width="50" height="50"/>
