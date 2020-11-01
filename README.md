@@ -2,10 +2,10 @@
 
 ## Undergraduate Student
 
-   - 🌱 I’m currently learning React
+   - 🌱 I’m currently learning react
    - 👯 I’m looking to collaborate with other web developers
    - 💬 Ask me about anything 
-   - 🥅 2020 Goals: Contribute more to projects
+   - 🥅 2020 Goals: contribute more to projects
    - 👀 Looking for an internship
    - 😄 Pronouns: He/Him
 
