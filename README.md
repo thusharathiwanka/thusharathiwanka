@@ -3,7 +3,7 @@
 ## Undergraduate Student
 
    - 🌱 I’m currently learning react
-   - 👯 I’m looking to collaborate with other web developers
+   - 👯 I’m looking to collaborate with web developers
    - 💬 Ask me about anything 
    - 🥅 2020 Goals: contribute more to projects
    - 👀 Looking for an internship
