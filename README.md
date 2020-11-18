@@ -1,6 +1,6 @@
 ## Hi there, I'm Thushara. 👋
 
-## Undergraduate Studen
+## Undergraduate Student
 
    - 🌱 I’m currently learning react
    - 👯 I’m looking to collaborate with web developers
