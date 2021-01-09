@@ -1,7 +1,7 @@
 ## Hi there, I'm Thushara. 👋
 
 ### Undergraduate Student
-<hr>
+<hr  style="width: 1px">
 
    - 🌱 I’m currently learning react
    - 👯 I’m looking to collaborate with web developers
