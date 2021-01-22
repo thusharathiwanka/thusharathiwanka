@@ -8,9 +8,6 @@
    - 🥅 2021 Goals: contribute more to projects
    - 😄 Pronouns: He/Him
 
-<!-- [![Thushara Thiwanka GitHub Stats](https://github-readme-stats.vercel.app/api?username=thusharathiwanka&show_icons=true&count_private=true)](https://github.com/thusharathiwanka)
--->
-
 ### 📫 Contact me on,
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thusharathiwanka123@gmail.com)
