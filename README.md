@@ -3,7 +3,7 @@
 ### Undergraduate Student
 
    - 🌱 I’m currently learning react
-   - 👯 I’m looking to collaborate with web developers
+   - 👯 I’m looking to collaborate with other developers
    - 💬 Ask me about anything 
    - 🥅 2021 Goals: contribute more to projects
    - 😄 Pronouns: He/Him
