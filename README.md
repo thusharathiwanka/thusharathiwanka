@@ -7,7 +7,7 @@
    - 💬 Ask me about anything 
    - 😄 Pronouns: He/Him
 
-### 📫 Contact me on
+### 📫 Contact me on,
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thusharathiwanka123@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thushara-thiwanka-3b4392197/)
