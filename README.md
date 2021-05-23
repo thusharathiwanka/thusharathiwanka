@@ -1,10 +1,10 @@
 # Hi there, I'm Thushara. 👋🏽🧔🏽
 
-### Undergraduate Student
+### Undergraduate
 
    - 🌱 I’m currently learning React
    - 👯 I’m looking to collaborate with other developers
-   - 💬 Ask me about anything 
+   - 💬 Ask me about anything
    - 😄 Pronouns: He/Him
 
 ### 📫 Contact me on,
