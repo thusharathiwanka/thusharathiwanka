@@ -3,7 +3,7 @@
 ### Undergraduate Student
 
    - 🌱 I’m currently learning React
-   - 👯 I’m looking to collaborate with other developers
+   - 👯 I’m looking for internship
    - 💬 Ask me about anything
    - 😄 Pronouns: He/Him
 
