@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | Undergraduate Student
 
-   -  I’m currently learning React
+   - 📝 I’m currently learning React
    - 👀 I’m looking to colloborate with React developers
    - 💬 Ask me about anything
    - 😄 Pronouns: He/Him
