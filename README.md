@@ -1,4 +1,4 @@
-# Hi there, I'm Thushara.
+# Hi there, I'm Thushara. 👋🏽
 
 ### Full Stack Developer | Undergraduate
 
