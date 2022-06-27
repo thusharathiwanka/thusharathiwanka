@@ -1,6 +1,6 @@
 # Hi there, I'm Thushara.
 
-### Full Stack Developer | Undergraduate Student
+### Full Stack Developer | Undergraduate
 
    - 📝 I’m currently learning Next.js
    - 👀 I’m looking to colloborate with React developers
