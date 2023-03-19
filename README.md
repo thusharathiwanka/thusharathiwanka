@@ -2,7 +2,7 @@
 
 ### Full-stack Developer | Undergraduate
 
-   - 📝 I’m currently learning Next.js
+   - 📝 I’m currently learning Nest.js
    - 👀 I’m looking to colloborate with React developers
    - 💬 Ask me about anything
    - 😄 Pronouns: He/Him
