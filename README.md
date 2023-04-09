@@ -1,6 +1,6 @@
 # Hi there, I'm Thiwanka. 👋🏽
 
-### Full-stack Developer
+### Full-stack Developer - React / Node
 
    - 🌱 I’m currently learning Nest.js
    - 👀 I’m looking to colloborate with React developers
