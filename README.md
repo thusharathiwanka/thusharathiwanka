@@ -1,9 +1,9 @@
-# Hi there, I'm Thiwanka. 👋🏽
+# Hi there, I'm Thushara. 👋🏽
 
-### Full-stack Developer
+### Software Engineer
 
    - 🌱 I’m currently learning Nuxt.js
-   - 👀 I’m looking to collaborate with React developers
+   - 👀 I’m looking to collaborate with Nuxt developers
    - 💬 Ask me about anything
    - 😄 Pronouns: He/Him
 
